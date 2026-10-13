@@ -1,8 +1,8 @@
 .venv/
 __pycache__/
 *.pyc
-output/
 
-Data/
+
+
 .pytest_cache/
 *.stackdump
