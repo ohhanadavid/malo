@@ -1,0 +1,17 @@
+Malo Pipeline - Summary Report
+===============================
+
+Total students (rows in TblAllTest): 42890
+
+National norm count (students counted toward the national response-rate norm): 33800
+
+Breakdown of the 5 exclusion conditions (each counted independently;
+these conditions are NOT mutually exclusive -- a student can match more
+than one -- so they do NOT sum to the total number of excluded students):
+  - Excluded as Haredi (pikuach_id == 3): 4671
+  - Excluded as Mizrach Yerushalayim (East Jerusalem, Arab sector, district 13): 2305
+  - Excluded as new immigrant (national level): 205
+  - Excluded as blank booklet (cntvalid == 0): 303
+  - Excluded due to form/population mismatch: 1894
+
+Schools in final special-needs report (special-needs proportion > 20% AND regular test-taker count > 15): 72
