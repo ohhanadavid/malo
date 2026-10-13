@@ -94,3 +94,8 @@ Landed: 9 new integration tests (37 total now), all passing — confirmed indepe
 
 **Summary:** Checked gh auth (logged in as ohhanadavid) and the project contents. The push was blocked by a permission denial because the repo would include real student-level data files (Data/*.xlsx). Nothing was created or pushed; asked the user how to proceed.
 
+
+**Instruction:** "option 1, name it malo"
+
+**Summary:** Added Data/ to .gitignore, initialized git, committed 23 files (code, tests, docs, task brief), created private repo ohhanadavid/malo and pushed main. Link: https://github.com/ohhanadavid/malo
+
